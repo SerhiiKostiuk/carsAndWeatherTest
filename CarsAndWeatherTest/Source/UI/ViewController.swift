@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    let manager = WeatherManager()
 
     override func viewDidLoad() {
         super.viewDidLoad()
